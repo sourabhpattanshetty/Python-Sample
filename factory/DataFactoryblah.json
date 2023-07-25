@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryblah",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6caa89e9-a392-4676-bccf-ae7d52adbd4a",
+		"tenantId": "f1eef697-f1a8-44fb-8b57-f4b7730a1f93"
+	}
+}
